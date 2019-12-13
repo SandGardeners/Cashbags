@@ -1,8 +1,9 @@
-![screenshot](sg.png)
+[![sand gardeners banner](sg.png)](https://sandgardeners.itch.io/)
 
-# Cashbags - LD38
+# [🛎️Cashbags - LD38🛎️](https://sandgardeners.itch.io/cashbags)
 
-![screenshot](ld38.png)
+[![game's screenshot](ld38.png)](https://sandgardeners.itch.io/cashbags)
+
 At Sand Gardeners, our projects are mostly powered by free and/or open source initiatives, including but not limited to [Inkle's Ink](https://github.com/inkle/ink), [Twine](https://github.com/tweecode/twine), [Bitsy](https://github.com/le-doux/bitsy). Likewise, the content we produce is deeply inspired by other artists who came before us, and coexist with us as well. 
   
 Right now, in a period of blossoming connectivity and overabundant information, we live in a time where more people than ever have the ability to express themselves creatively. But sadly, the ongoing tenacity from shareholders, copyright owners and general public assholes to silence these voices, indefinitely extend copyright laws, stifle creativity, and sue smaller creators has never been so strong.
