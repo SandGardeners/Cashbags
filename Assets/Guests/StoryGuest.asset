@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6512896d70df09a4e99458a7fcf23d6b, type: 3}
+  m_Name: StoryGuest
+  m_EditorClassIdentifier: 
+  name: ???
+  mainKnot: STORY_GUEST
+  voice:
+  - {fileID: 8300000, guid: 44aa48321f1e4a048816bd8645d15e14, type: 3}
+  - {fileID: 8300000, guid: 5581ba92cd33e304cb45e58ab51b9251, type: 3}
+  - {fileID: 8300000, guid: 26b71e33444737b4ab26ae4e8c19f3c5, type: 3}
+  - {fileID: 8300000, guid: 065ef32a8fa8ade448d22691ce123747, type: 3}
+  - {fileID: 8300000, guid: f2e5cac9d9a2bac498ba00b5c11fe74f, type: 3}
+  - {fileID: 8300000, guid: 6eade1c9f82ab044ba0f48ecdcee2d90, type: 3}
+  - {fileID: 8300000, guid: ba37e32b406e4f340ad55bc658ede57c, type: 3}
+  - {fileID: 8300000, guid: eb5b1e4dcc230704590467a80ea09f5e, type: 3}
+  headSprite: {fileID: 21300000, guid: f691404e646e0431a97bcdd9a04b4748, type: 3}
+  indexCheckin: 8
+  events: 

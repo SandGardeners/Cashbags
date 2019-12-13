@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6512896d70df09a4e99458a7fcf23d6b, type: 3}
+  m_Name: QuestionGuest
+  m_EditorClassIdentifier: 
+  name: Alice Yella
+  mainKnot: QUESTION_GUEST
+  voice:
+  - {fileID: 8300000, guid: 35f9c1b9c854d334da754df8bfde929f, type: 3}
+  - {fileID: 8300000, guid: 383c184faf919d54cb7ce48f4f2dab4e, type: 3}
+  - {fileID: 8300000, guid: aa82a7044b4001a40b8f99cc570051c5, type: 3}
+  - {fileID: 8300000, guid: 642e5a81d69ab1f49b9a560dc174e853, type: 3}
+  - {fileID: 8300000, guid: ab70f01fea52b1841a44289ed2c21017, type: 3}
+  - {fileID: 8300000, guid: d4a09a925c4dc1942a1a8685610f1dd8, type: 3}
+  - {fileID: 8300000, guid: 3be00562ce7f21446b866e1cdb99c4ce, type: 3}
+  - {fileID: 8300000, guid: 771e2d03ce025474abab256ef0f43dbd, type: 3}
+  headSprite: {fileID: 0}
+  indexCheckin: 5
+  events: 0000000001000000

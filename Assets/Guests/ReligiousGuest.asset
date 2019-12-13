@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6512896d70df09a4e99458a7fcf23d6b, type: 3}
+  m_Name: ReligiousGuest
+  m_EditorClassIdentifier: 
+  name: Pastor Kylie
+  mainKnot: RELIGIOUS_GUEST
+  voice:
+  - {fileID: 8300000, guid: d110c231882e6564b81539d2c5928138, type: 3}
+  - {fileID: 8300000, guid: c3c56871d3a0c794d8d0440b5ec655f3, type: 3}
+  - {fileID: 8300000, guid: 707f454366a30244e87d945bc26d6058, type: 3}
+  - {fileID: 8300000, guid: b28eec07f038f1e48977aa50c32900d0, type: 3}
+  - {fileID: 8300000, guid: 7258e2339d7fbfe46a9c621e78238150, type: 3}
+  - {fileID: 8300000, guid: 8c393f2480ce2a74a88d888d3f172cb8, type: 3}
+  - {fileID: 8300000, guid: 2756bebf2d4c8104cb6d55f900c1fac1, type: 3}
+  - {fileID: 8300000, guid: 7cc9cd9e9261e6543a45b2f16874d9b6, type: 3}
+  headSprite: {fileID: 21300000, guid: f30990e834755e84dbe7c9d303a06861, type: 3}
+  indexCheckin: 3
+  events: 

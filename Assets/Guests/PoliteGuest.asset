@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6512896d70df09a4e99458a7fcf23d6b, type: 3}
+  m_Name: PoliteGuest
+  m_EditorClassIdentifier: 
+  name: Giles Wannascrub
+  mainKnot: POLITE_GUEST
+  voice:
+  - {fileID: 8300000, guid: cddcbf9acc599c546867d255208ac0e3, type: 3}
+  - {fileID: 8300000, guid: 1efa2973ebe0231409f8d28744fb22d7, type: 3}
+  - {fileID: 8300000, guid: 159b86bfbd845a340bf39247af486100, type: 3}
+  - {fileID: 8300000, guid: ac5c2a7646b77b446b3a4849b63ddf33, type: 3}
+  - {fileID: 8300000, guid: 5cfee53995674ac44b1cce32f807186b, type: 3}
+  - {fileID: 8300000, guid: 21afc799b19ce2949a3cbfe5c509f0ce, type: 3}
+  - {fileID: 8300000, guid: 365351fadb76aa14b971252ef2e3f80f, type: 3}
+  headSprite: {fileID: 0}
+  indexCheckin: 11
+  events: 0000000001000000

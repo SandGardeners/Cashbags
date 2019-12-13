@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6512896d70df09a4e99458a7fcf23d6b, type: 3}
+  m_Name: Paranoid
+  m_EditorClassIdentifier: 
+  name: Percy Perplexed
+  mainKnot: PARANOID_GUEST
+  voice:
+  - {fileID: 8300000, guid: 0da53d1143901a041b3a68f2b63fd379, type: 3}
+  - {fileID: 8300000, guid: 236df4f255149ca458fe3ba9c984b2b6, type: 3}
+  - {fileID: 8300000, guid: e9ce7cfe4862dd34f9a195ba73474591, type: 3}
+  - {fileID: 8300000, guid: 51f052154ce637e499d5b94a7b987aff, type: 3}
+  - {fileID: 8300000, guid: 829220551f03523438390fff784f4332, type: 3}
+  - {fileID: 8300000, guid: a80a23df1b6156f4facaad90dc460209, type: 3}
+  - {fileID: 8300000, guid: 6ad92161d69500641a10b957696fad0c, type: 3}
+  headSprite: {fileID: 21300000, guid: b8fc5389c6d5e50429aa68e87490dfa4, type: 3}
+  indexCheckin: 0
+  events: 
